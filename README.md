@@ -1,7 +1,11 @@
 Name : - Mahak Prajapat
+
 ID:- CTFSW194
+
 Domin:- Full stack web developer
+
 Duration:- 12 weeks(1st may 2024 - 1st August 2024)
+
 Mentor:- Sravani Gouni
 
 # Description of a TO-DO list :
@@ -11,8 +15,11 @@ The TO-DO list application is a web-based tool designed to help users organize a
 
 # User Interface:
 . Input Field: A text input field where users can type new tasks.
+
 . Add Task Button: A button to add the task entered in the input field to the list.
+
 . Task List: A scrollable list of tasks, displaying each task as a separate item.
+
 . Task Actions: Options to mark tasks as complete, edit their content, or delete them.
 
 # Technology Stack:
